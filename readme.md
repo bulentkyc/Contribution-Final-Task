@@ -1,9 +1,9 @@
 Task:
-1. Creating repository and contribute with the group and creating readme.md file in master brach with the content below:
+1. (Developer A) Creating repository and contribute with the group and creating readme.md file in master brach with the content below:
     
     Hello World
 
-2. Create folder on the local (like exercises) with second person
+2. (Developer B) Create folder on the local (like exercises) with second person
 3. Initilazing git and connect to the remote repository
 4. Receving the code from remote repository into local
 5. Create a branch
@@ -20,7 +20,7 @@ Task:
 
 7. Publish the file into the remote repository
 8. Merge the branch with master branch
-9. Do with another person (person by person):
+9. (Developer c) Do with another person (person by person):
     Create a branch and update the text like this:
         Hello World
 
@@ -33,7 +33,7 @@ Task:
 10. Publish to the remote repository and merge with master on remote repo and local repo.
 
 11. Rest of the group ine by one change some parts of the text and do the same steps again while resolving conflicts.
-
+(Developer D)
         Hello World!
 
         Logo
@@ -44,6 +44,7 @@ Task:
 
         Footer
 ///////////////////////////
+(Developer E)
         Hello World
         
         Header
