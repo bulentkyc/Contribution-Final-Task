@@ -33,7 +33,9 @@ Task:
 10. Publish to the remote repository and merge with master on remote repo and local repo.
 
 11. Rest of the group ine by one change some parts of the text and do the same steps again while resolving conflicts.
+
 (Developer D)
+
         Hello World!
 
         Logo
@@ -44,7 +46,9 @@ Task:
 
         Footer
 ///////////////////////////
+
 (Developer E)
+
         Hello World
         
         Header
